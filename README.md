@@ -37,7 +37,7 @@ Data visualization is an easy and quick way to convey concepts universally. You 
 5. To competitive analyze.
 6. To improve insights.
 
-* Why Python for Data Visualization ?
+# Why Python for Data Visualization ?
 Though there are lots of tools available for Data Visualization, Python has few best libraries that make Python Visualization easy for any dataset. These libraries make Python Visualization affordable for large and small datasets. There are several courses available on the internet that just focuses on Data Visualization with Python and especially with Matplotlib. Matplotlib is very useful to create and present Python Visualization.
 
 # Popular Libraries For Data Visualization in Python :
